@@ -1,0 +1,33 @@
+[I 08:58:26.109 NotebookApp] The port 8888 is already in use, trying another port.
+[I 08:58:26.114 NotebookApp] Serving notebooks from local directory: /Users/velloregrao/PycharmProjects/finance
+[I 08:58:26.114 NotebookApp] The Jupyter Notebook is running at:
+[I 08:58:26.114 NotebookApp] http://localhost:8889/?token=9c1c42c393698904f988f97ffded07ac602b57e51fe3fd2b
+[I 08:58:26.114 NotebookApp]  or http://127.0.0.1:8889/?token=9c1c42c393698904f988f97ffded07ac602b57e51fe3fd2b
+[I 08:58:26.114 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:58:26.121 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/velloregrao/Library/Jupyter/runtime/nbserver-2646-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=9c1c42c393698904f988f97ffded07ac602b57e51fe3fd2b
+     or http://127.0.0.1:8889/?token=9c1c42c393698904f988f97ffded07ac602b57e51fe3fd2b
+[W 08:58:35.965 NotebookApp] 404 GET /api/kernels/109d6741-0483-4f57-afb8-3d87489027f4/channels?session_id=09facd1366654a39a175d96c51fc373f (::1): Kernel does not exist: 109d6741-0483-4f57-afb8-3d87489027f4
+[W 08:58:35.971 NotebookApp] 404 GET /api/kernels/109d6741-0483-4f57-afb8-3d87489027f4/channels?session_id=09facd1366654a39a175d96c51fc373f (::1) 13.76ms referer=None
+[I 08:58:56.841 NotebookApp] Kernel started: 38d9e09c-97a9-403f-ac52-641996d9fa08
+[I 08:59:07.045 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:11:44.817 NotebookApp] Creating new directory in 
+[I 09:12:51.187 NotebookApp] Starting buffering for 38d9e09c-97a9-403f-ac52-641996d9fa08:5ffe4c053d774f968003bc66fc43e277
+[I 09:25:15.530 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:27:19.581 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:37:12.554 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:39:13.085 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:41:08.193 NotebookApp] Starting buffering for 38d9e09c-97a9-403f-ac52-641996d9fa08:b580d9eb676c4c379ed040853a950327
+[I 09:41:08.512 NotebookApp] Kernel restarted: 38d9e09c-97a9-403f-ac52-641996d9fa08
+[I 09:41:09.328 NotebookApp] Restoring connection for 38d9e09c-97a9-403f-ac52-641996d9fa08:b580d9eb676c4c379ed040853a950327
+[I 09:41:09.328 NotebookApp] Replaying 6 buffered messages
+[I 09:41:12.551 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:43:12.553 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:45:12.551 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:47:12.546 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:49:13.081 NotebookApp] Saving file at /Source/Finance.ipynb
+[I 09:51:17.683 NotebookApp] Saving file at /Source/Finance.ipynb
